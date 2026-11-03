@@ -1,5 +1,7 @@
 //
 // This program is just an example one under VCS.
+// Author: Ivan Ivanov, group KE-333
+// Year: 2026
 //
 #include <iostream>
 
